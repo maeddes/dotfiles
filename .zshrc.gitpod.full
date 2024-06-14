@@ -1,4 +1,4 @@
-alias l='exa -glmF --header --git'
+alias l='eza -glmF --header --git'
 alias k=kubectl
 
 autoload -Uz vcs_info
